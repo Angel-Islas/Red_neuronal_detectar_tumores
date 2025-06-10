@@ -1,0 +1,6 @@
+Flask==2.2.5
+Flask-Cors==3.0.10
+numpy==1.23.5
+Pillow==9.5.0
+scikit-learn==1.2.2
+fpdf2==2.4.0
